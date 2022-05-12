@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,e as i}from"./app.07f187a4.js";const u='{"title":"Git Aliases","description":"","frontmatter":{},"headers":[],"relativePath":"notes/git-aliases.md"}',o={},s=i("",12),n=[s];function l(r,c,d,m,g,h){return a(),t("div",null,n)}var _=e(o,[["render",l]]);export{u as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a as o}from"./app.91167803.js";const g='{"title":"About me","description":"","frontmatter":{"sidebar":false},"headers":[],"relativePath":"about/index.md"}',a={},n=o("",6),i=[n];function s(c,h,l,d,m,p){return r(),t("div",null,i)}var _=e(a,[["render",s]]);export{g as __pageData,_ as default};
